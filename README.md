@@ -6,22 +6,8 @@ An intelligent fraud detection system that identifies potentially fraudulent onl
 
 ## 🚀 Project Architecture
 
-online-payments-fraud-detection/
-├── data/
-│ └── PS_20174392719_1491204439457_log.csv # Original dataset (LFS tracked)
-├── flask/
-│ ├── app.py # Flask app (local)
-│ ├── app_ibm.py # Flask app (IBM deployment)
-│ ├── payments.pkl # Trained ML model
-│ └── templates/ # HTML UI
-│ ├── home.html
-│ ├── predict.html
-│ └── submit.html
-├── training/
-│ ├── ONLINE PAYMENTS FRAUD DETECTION.ipynb # Model training notebook
-│ └── payments.pkl
-├── training_ibm/
-│ └── online payments fraud prediction using ibm.ipynb # IBM-specific training
+![image](https://github.com/user-attachments/assets/40bc5b89-5872-4ca6-a1d3-8f29c2d7654a)
+
 
 
 ---
