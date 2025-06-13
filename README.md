@@ -48,7 +48,7 @@ Continuously retrains the model using new data to keep up with evolving fraud te
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - GitHub + Git LFS (for dataset handling)
-- IBM Watson (optional deployment)
+
 
 ---
 
@@ -90,3 +90,10 @@ pip install -r ../requirements.txt
 # 4. Run the Flask app
 python app.py
 Then open http://localhost:5000 in your browser.
+
+ Dataset Notice
+⚠️ The dataset (data/PS_20174392719_1491204439457_log.csv) exceeds GitHub’s file limit and is tracked using Git LFS.
+If you're cloning this repo, ensure Git LFS is installed:
+git lfs install
+git lfs pull
+
