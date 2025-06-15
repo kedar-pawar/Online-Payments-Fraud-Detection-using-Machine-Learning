@@ -24,6 +24,19 @@ Flags behavior like multiple failed logins or unusual spending patterns.
 Continuously retrains the model using new data to keep up with evolving fraud techniques.
 
 ---
+## Project Output and video link:
+output:
+Homepage:
+![image](https://github.com/user-attachments/assets/76a4eac3-801a-4ea6-891b-7ec2232e2d68)
+
+prediction page:
+![image](https://github.com/user-attachments/assets/ab6ede87-acf6-4517-a233-4257473bc046)
+
+result page:
+![image](https://github.com/user-attachments/assets/8a6fb6f3-74cc-40cc-a39e-943c60e46796)
+
+drive link:https://drive.google.com/file/d/17i4woQcN_-WitS_J_xdBjRJbvEmj2M4n/view?usp=sharing
+
 
 ## ⚙️ Technologies Used
 
